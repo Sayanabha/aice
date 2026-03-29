@@ -3,6 +3,8 @@
 So I built Aice. An AI-powered ice cream shop where a penguin named Pengu reads
 your mood and tells you what to eat. As one does.
 
+Live at https://aice-pied-three.vercel.app
+
 ---
 
 ## What it does
